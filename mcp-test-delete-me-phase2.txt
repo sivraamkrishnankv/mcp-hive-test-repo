@@ -1,1 +1,0 @@
-MCP Phase 2 verification test file. Safe to delete.
